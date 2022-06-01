@@ -1,5 +1,5 @@
 # JCEM_supplementary material
 
-Supplementary material 
-Table S1, S2, S3
-List of Regeneron Authors
+Supplementary material:
+a)Table S1, S2, S3
+b)List of Regeneron Authors
